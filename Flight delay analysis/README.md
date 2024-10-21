@@ -26,24 +26,24 @@ https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset
 9. DEST: Destination airport code.
 10. DEST_CITY: City of destination airport.
 11. CRS_DEP_TIME: Scheduled departure time.
-DEP_TIME: Actual departure time.
-DEP_DELAY: Departure delay.
-TAXI_OUT: Time spent taxiing out.
-WHEELS_OFF: Time when aircraft's wheels leave the ground.
-WHEELS_ON: Time when aircraft's wheels touch the ground.
-TAXI_IN: Time spent taxiing in.
-CRS_ARR_TIME: Scheduled arrival time.
-ARR_TIME: Actual arrival time.
-ARR_DELAY: Arrival delay.
-CANCELLED: Indicator if the flight was cancelled (1 for cancelled, 0 for not cancelled).
-CANCELLATION_CODE: Reason for cancellation (if applicable).
-DIVERTED: Indicator if the flight was diverted (1 for diverted, 0 for not diverted).
-CRS_ELAPSED_TIME: Scheduled elapsed time.
-ELAPSED_TIME: Actual elapsed time.
-AIR_TIME: Time spent in the air.
-DISTANCE: Distance traveled.
-DELAY_DUE_CARRIER: Delay due to carrier.
-DELAY_DUE_WEATHER: Delay due to weather.
-DELAY_DUE_NAS: Delay due to National Airspace System (NAS).
-DELAY_DUE_SECURITY: Delay due to security.
-DELAY_DUE_LATE_AIRCRAFT: Delay due to late aircraft arrival.
+12. DEP_TIME: Actual departure time.
+13. DEP_DELAY: Departure delay.
+14. TAXI_OUT: Time spent taxiing out.
+15. WHEELS_OFF: Time when aircraft's wheels leave the ground.
+16. WHEELS_ON: Time when aircraft's wheels touch the ground.
+17. TAXI_IN: Time spent taxiing in.
+18. CRS_ARR_TIME: Scheduled arrival time.
+19. ARR_TIME: Actual arrival time.
+20. ARR_DELAY: Arrival delay.
+21. CANCELLED: Indicator if the flight was cancelled (1 for cancelled, 0 for not cancelled).
+22. CANCELLATION_CODE: Reason for cancellation (if applicable).
+23. DIVERTED: Indicator if the flight was diverted (1 for diverted, 0 for not diverted).
+24. CRS_ELAPSED_TIME: Scheduled elapsed time.
+25. ELAPSED_TIME: Actual elapsed time.
+26. AIR_TIME: Time spent in the air.
+27. DISTANCE: Distance traveled.
+28. DELAY_DUE_CARRIER: Delay due to carrier.
+29. DELAY_DUE_WEATHER: Delay due to weather.
+30. DELAY_DUE_NAS: Delay due to National Airspace System (NAS).
+31. DELAY_DUE_SECURITY: Delay due to security.
+32. DELAY_DUE_LATE_AIRCRAFT: Delay due to late aircraft arrival.
