@@ -15,17 +15,17 @@ What are the major causes of delays, and how can they be predicted?
 
 ## DATASET:
 https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
-FL_DATE: Date of the flight.
-AIRLINE: Name of the airline.
-AIRLINE_DOT: DOT identifier for the airline.
-AIRLINE_CODE: Code assigned to the airline.
-DOT_CODE: DOT identifier.
-FL_NUMBER: Flight number.
-ORIGIN: Origin airport code.
-ORIGIN_CITY: City of origin airport.
-DEST: Destination airport code.
-DEST_CITY: City of destination airport.
-CRS_DEP_TIME: Scheduled departure time.
+1. FL_DATE: Date of the flight
+2. AIRLINE: Name of the airline
+3. AIRLINE_DOT: DOT identifier for the airline.
+4. AIRLINE_CODE: Code assigned to the airline.
+5. DOT_CODE: DOT identifier.
+6. FL_NUMBER: Flight number.
+7. ORIGIN: Origin airport code
+8. ORIGIN_CITY: City of origin airport.
+9. DEST: Destination airport code.
+10. DEST_CITY: City of destination airport.
+11. CRS_DEP_TIME: Scheduled departure time.
 DEP_TIME: Actual departure time.
 DEP_DELAY: Departure delay.
 TAXI_OUT: Time spent taxiing out.
