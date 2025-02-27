@@ -1,1 +1,1 @@
-Welcome to my Machine Learning Projects repository! This collection showcases a variety of machine learning models and techniques implemented using Python and popular libraries such as Scikit-learn and TensorFlow. You'll find both mini and big projects, each demonstrating different aspects of machine learning.
+This repository has a collection of machine learning projects where I’ve implemented various techniques and models using Python, Scikit-learn, and other libraries.
